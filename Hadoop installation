@@ -42,7 +42,7 @@ Distributed mode: Each Daemon run on its own JVM across a cluster of hosts
 # Stand alone mode
 ls
 nano ~/.bashrc
-export HADOOP_HOME=$HOME/Desktop/trialrun/softwares/hadoop-3.3.4
+export HADOOP_HOME=$HOME/Desktop/course/softwares/softwares/hadoop-3.3.4
 export PATH=$PATH:$HADOOP_HOME/bin:$HADOOP_HOME/sbin
 source .bashrc
 hadoop version
